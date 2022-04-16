@@ -1,0 +1,237 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    overflow-x: hidden;
+}
+head{
+    background-color: chartreuse;
+}
+
+/*CCS for the header part*/
+.headers{
+    background-image: linear-gradient(rgb(94, 4, 4),rgb(36, 10, 10)),url(./asset/images/backround2\ color.jpg);
+    top: 0;
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    color: rgb(75, 25, 9);
+    position: fixed;
+    width: 100%;
+    background-color: rgb(245, 235, 235);
+    z-index: 100;
+    margin: 0;
+    padding: 0;
+    background-size: 25px;
+    text-align: center;
+   
+}
+header{
+
+    font-size: 30px;
+    color: rgb(245, 78, 18);
+    width: 100%;
+    z-index: 100;
+    margin: 0;
+    padding: 0;
+    background-size: 5px;
+    text-align: center;
+    position: fixed;
+   
+}
+#Frinds{
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    
+}
+
+#friends_love{
+  
+}
+.menu_list li a{
+    color: white;
+    margin: 30px;
+}
+.menu_list li{
+    display: inline-block;
+}
+
+main{
+    margin-top: 200px;
+    padding: 50px;
+    
+}
+
+table{
+    border: 2px solid rgb(51, 181, 185);
+    width: 60%;
+    height: 50%;
+    background-color: rgb(243, 159, 129);
+    
+    
+}
+   
+table, tr ,td{
+    border: 2px solid;
+    border-radius: 20%;
+    
+}
+tr{
+    color: rgb(255, 255, 255);
+}
+td{
+    color: rgb(1, 7, 2);
+}
+body{
+    color: rgb(96, 119, 10);
+}
+section{
+    color: rgb(24, 16, 16);
+    font-size: 15px;
+    padding: 20px;
+    background-color: rgba(75, 0, 0, 0.267);
+}
+
+
+.styles{
+    padding: 50px;
+
+}
+
+#Love{
+    right: 0;
+    bottom: 0;
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;
+    color: rgb(15, 15, 15);
+    text-size-adjust: 10px;
+   
+}
+#Honest{
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;
+    color: rgb(15, 15, 15);
+    right: 0;
+    top: 0;
+}
+#Ethinc{
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;
+    color: rgb(15, 15, 15);
+    text-size-adjust: 10px;
+    left: 0;
+    top: 0;
+}
+#Belive{
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;
+    color: rgb(15, 15, 15);
+    text-size-adjust: 10px;
+    bottom: 0;
+    left: 0;
+}
+
+.box_wrapper{
+    
+    position: relative;
+    background-color: rgb(174, 218, 72);
+    height: 400px;
+    width: 1000px;
+    padding: 0;
+    margin: 100px;
+    
+
+}
+.box{
+    position: absolute;
+   display: inline-block;
+    text-align: center;
+    line-height: 150px;
+   
+    height: 150px;
+    width: 150px;
+    
+    border-top: 10px solid green;
+    border-left: 10px solid rgba(97, 233, 18, 0.712);
+    border-bottom: 10px solid rgb(7, 26, 134);
+    border-right: 10px solid rgb(255, 4, 4);
+    border-radius: 10%;
+}
+.manage{
+
+    padding: 30px;
+    font-size: 10px; 
+}
+
+.progress{
+    background-color: rgb(13, 14, 13);
+    padding: 10%;
+    color: white;
+}
+.metag{
+    background-color: rgb(187, 250, 187);
+}
+
+#details_tag{
+    background-color: rgb(214, 54, 26);
+    color: white;
+}
+
+.form{
+background-color: rgb(161, 167, 245);
+
+
+}
+input[type='text'],
+input[type='date'],
+input[type='email'],
+input[type='password'] , textarea{
+    display: block;
+    padding: 6px;
+    height: 5%; width: 30%;
+   border-radius: 5px;
+   border: 2px solid rgb(253, 192, 192);
+   
+}
+#contact_main {
+    background-color: rgb(0, 0, 0);
+   
+}
+label{
+    color: rgb(105, 41, 4);
+}
+
+.ListOfFriends{
+    background-color:rgb(190, 107, 107);
+    border-radius: 10px;
+   margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 90px;
+}
+
+body{
+    margin-top: 500;
+}
+#Login_betten{
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-left: 150px;
+    right: 0;
+    bottom: 0;
+}
+.footer{
+    background-color: rgb(243, 243, 250);
+    color: rgb(160, 86, 86);
+    border: 2px solid ;
+}
+
+
+
+
+
+
+/*THIS IS THE NEWER PART OR THE FIRST PAGE OF THE TITLE*/
+
+
+
